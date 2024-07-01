@@ -1,4 +1,4 @@
-# Liquidity Pools [![Github Actions][gha-badge]][gha] [![Foundry][foundry-badge]][foundry] [![License: AGPL v3]
+# Liquidity Pools [![Foundry][foundry-badge]][foundry] [![License: AGPL v3]
 
 ## How it works
 
